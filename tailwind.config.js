@@ -1,0 +1,23 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ["./src/**/*.{html,js}"],
+  theme: {
+    extend: {
+      colors:{
+
+        'Pink': 'hsl(322, 100%, 66%)',
+        'VeryPaleCyan':' hsl(193, 100%, 96%)',
+        'VeryDarkCyan': 'hsl(192, 100%, 9%)',
+        'GrayishBlue': 'hsl(208, 11%, 55%)'
+      },
+
+      fontFamily:{
+        'poppins-h' : ["Poppins", 'sans-serif'],
+        'open-sans-body': ["Open Sans", 'sans-serif']
+        
+      }
+
+    },
+  },
+  plugins: [],
+}
