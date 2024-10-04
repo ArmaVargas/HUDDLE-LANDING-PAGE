@@ -9,6 +9,7 @@ module.exports = {
         'VeryPaleCyan':' hsl(193, 100%, 96%)',
         'VeryDarkCyan': 'hsl(192, 100%, 9%)',
         'GrayishBlue': 'hsl(208, 11%, 55%)'
+      
       },
 
       fontFamily:{
