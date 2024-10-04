@@ -14,7 +14,11 @@ module.exports = {
       fontFamily:{
         'poppins-h' : ["Poppins", 'sans-serif'],
         'open-sans-body': ["Open Sans", 'sans-serif']
-        
+
+      },
+      backgroundImage:{
+        'fondo-D': "url('./images/bg-hero-desktop.svg')",
+        'fondo-M': "url('./images/bg-hero-mobile.svg')",
       }
 
     },
