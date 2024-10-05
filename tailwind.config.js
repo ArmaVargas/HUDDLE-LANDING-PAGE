@@ -20,7 +20,11 @@ module.exports = {
       backgroundImage:{
         'fondo-D': "url('./images/bg-hero-desktop.svg')",
         'fondo-M': "url('./images/bg-hero-mobile.svg')",
-      }
+      },
+      
+      boxShadow:{
+        '3xa': '-2px 0px 20px -5px rgba(0,0,0,0.18)'
+      },
 
     },
   },
