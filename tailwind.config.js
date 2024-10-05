@@ -26,6 +26,10 @@ module.exports = {
         '3xa': '-2px 0px 20px -5px rgba(0,0,0,0.18)'
       },
 
+      screens:{
+        'pq': '375px'
+      },
+
     },
   },
   plugins: [],
