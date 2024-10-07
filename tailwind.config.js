@@ -2,6 +2,8 @@
 module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
+   
+
     extend: {
       colors:{
 
@@ -27,10 +29,12 @@ module.exports = {
       },
 
       screens:{
-        'pq': '375px'
+        'pq': '375px',
+        'med':'1440px'
       },
 
-    },
+  
+    } 
   },
   plugins: [],
 }
